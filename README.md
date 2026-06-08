@@ -34,6 +34,7 @@ A collection of awesome things regarding chat bots
 - [Microsoft Tay](https://twitter.com/tayandyou)
 
 ## Chatbot tools
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [TuringRobot－The most intelligent robot brain](http://www.tuling123.com/)
 - [Facebook Messenger DevKit](https://github.com/olegakbarov/facebook-messenger-devkit)
 - [Broid - Multiple Messaging Channels with One OpenSource Language.](https://github.com/broidHQ/integrations/tree/master)
